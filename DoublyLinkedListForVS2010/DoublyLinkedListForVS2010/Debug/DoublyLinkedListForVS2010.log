@@ -1,0 +1,26 @@
+﻿Построение начато 06.10.2016 18:47:49.
+     1>Проект "D:\PROJECTS\DoublyLinkedListForVS2010\DoublyLinkedListForVS2010\DoublyLinkedListForVS2010\DoublyLinkedListForVS2010.vcxproj" в узле 2 (целевые объекты build).
+     1>PrepareForBuild:
+         Создание каталога "D:\PROJECTS\DoublyLinkedListForVS2010\DoublyLinkedListForVS2010\Debug\".
+       InitializeBuildStatus:
+         Создание "Debug\DoublyLinkedListForVS2010.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\DoublyLinkedListForVS2010.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\DoublyLinkedListForVS2010.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt List.cpp Main.cpp
+         Main.cpp
+         List.cpp
+         Создание кода...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\DoublyLinkedListForVS2010.exe.embed.manifest.res" Debug\DoublyLinkedListForVS2010_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\PROJECTS\DoublyLinkedListForVS2010\DoublyLinkedListForVS2010\Debug\DoublyLinkedListForVS2010.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\DoublyLinkedListForVS2010.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\PROJECTS\DoublyLinkedListForVS2010\DoublyLinkedListForVS2010\Debug\DoublyLinkedListForVS2010.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\PROJECTS\DoublyLinkedListForVS2010\DoublyLinkedListForVS2010\Debug\DoublyLinkedListForVS2010.lib" /MACHINE:X86 Debug\DoublyLinkedListForVS2010.exe.embed.manifest.res
+         Debug\List.obj
+         Debug\Main.obj
+         Debug\stdafx.obj
+     1>LINK : fatal error LNK1123: сбой при преобразовании в COFF: файл недопустим или поврежден
+     1>Построение проекта "D:\PROJECTS\DoublyLinkedListForVS2010\DoublyLinkedListForVS2010\DoublyLinkedListForVS2010\DoublyLinkedListForVS2010.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:02.44

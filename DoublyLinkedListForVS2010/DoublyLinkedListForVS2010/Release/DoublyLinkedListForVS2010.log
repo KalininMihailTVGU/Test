@@ -1,0 +1,29 @@
+﻿Построение начато 06.10.2016 18:48:00.
+     1>Проект "D:\PROJECTS\DoublyLinkedListForVS2010\DoublyLinkedListForVS2010\DoublyLinkedListForVS2010\DoublyLinkedListForVS2010.vcxproj" в узле 2 (целевые объекты build).
+     1>PrepareForBuild:
+         Создание каталога "D:\PROJECTS\DoublyLinkedListForVS2010\DoublyLinkedListForVS2010\Release\".
+       InitializeBuildStatus:
+         Создание "Release\DoublyLinkedListForVS2010.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\DoublyLinkedListForVS2010.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\DoublyLinkedListForVS2010.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt List.cpp Main.cpp
+         List.cpp
+         Main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\PROJECTS\DoublyLinkedListForVS2010\DoublyLinkedListForVS2010\Release\DoublyLinkedListForVS2010.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\DoublyLinkedListForVS2010.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\PROJECTS\DoublyLinkedListForVS2010\DoublyLinkedListForVS2010\Release\DoublyLinkedListForVS2010.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\PROJECTS\DoublyLinkedListForVS2010\DoublyLinkedListForVS2010\Release\DoublyLinkedListForVS2010.lib" /MACHINE:X86 Release\List.obj
+         Release\Main.obj
+         Release\stdafx.obj
+         Создание кода
+         Создание кода завершено
+         DoublyLinkedListForVS2010.vcxproj -> D:\PROJECTS\DoublyLinkedListForVS2010\DoublyLinkedListForVS2010\Release\DoublyLinkedListForVS2010.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\PROJECTS\DoublyLinkedListForVS2010\DoublyLinkedListForVS2010\Release\DoublyLinkedListForVS2010.exe;#1" /manifest Release\DoublyLinkedListForVS2010.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Release\DoublyLinkedListForVS2010.unsuccessfulbuild" удаляется.
+         Обращение к "Release\DoublyLinkedListForVS2010.lastbuildstate".
+     1>Построение проекта "D:\PROJECTS\DoublyLinkedListForVS2010\DoublyLinkedListForVS2010\DoublyLinkedListForVS2010\DoublyLinkedListForVS2010.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.71
