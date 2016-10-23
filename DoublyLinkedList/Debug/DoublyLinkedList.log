@@ -1,0 +1,20 @@
+﻿  Main.cpp
+c:\users\123\documents\visual studio 2015\projects\queue\doublylinkedlist\doublylinkedlist.h(146): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\123\documents\visual studio 2015\projects\queue\doublylinkedlist\doublylinkedlist.h(146): error C2143: syntax error: missing ',' before '&'
+c:\users\123\documents\visual studio 2015\projects\queue\doublylinkedlist\doublylinkedlist.h(151): error C2065: 'value': undeclared identifier
+c:\users\123\documents\visual studio 2015\projects\queue\doublylinkedlist\doublylinkedlist.h(157): error C2065: 'value': undeclared identifier
+c:\users\123\documents\visual studio 2015\projects\queue\doublylinkedlist\doublylinkedlist.h(163): error C2181: illegal else without matching if
+c:\users\123\documents\visual studio 2015\projects\queue\doublylinkedlist\doublylinkedlist.h(168): error C2664: 'doubly_linked_list::node::node(doubly_linked_list::node &&)': cannot convert argument 1 from 'int' to 'const doubly_linked_list::node &'
+  c:\users\123\documents\visual studio 2015\projects\queue\doublylinkedlist\doublylinkedlist.h(168): note: Reason: cannot convert from 'int' to 'const doubly_linked_list::node'
+  c:\users\123\documents\visual studio 2015\projects\queue\doublylinkedlist\doublylinkedlist.h(168): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+c:\users\123\documents\visual studio 2015\projects\queue\doublylinkedlist\doublylinkedlist.h(171): error C2065: 'tail': undeclared identifier
+c:\users\123\documents\visual studio 2015\projects\queue\doublylinkedlist\doublylinkedlist.h(183): error C2664: 'doubly_linked_list::node::node(doubly_linked_list::node &&)': cannot convert argument 1 from 'int' to 'const doubly_linked_list::node &'
+  c:\users\123\documents\visual studio 2015\projects\queue\doublylinkedlist\doublylinkedlist.h(183): note: Reason: cannot convert from 'int' to 'const doubly_linked_list::node'
+  c:\users\123\documents\visual studio 2015\projects\queue\doublylinkedlist\doublylinkedlist.h(183): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+c:\users\123\documents\visual studio 2015\projects\queue\doublylinkedlist\doublylinkedlist.h(185): error C2065: 'tail': undeclared identifier
+c:\users\123\documents\visual studio 2015\projects\queue\doublylinkedlist\doublylinkedlist.h(186): error C2065: 'tail': undeclared identifier
+c:\users\123\documents\visual studio 2015\projects\queue\doublylinkedlist\doublylinkedlist.h(189): error C2065: 'tail': undeclared identifier
+c:\users\123\documents\visual studio 2015\projects\queue\doublylinkedlist\doublylinkedlist.h(189): error C2227: left of '->next' must point to class/struct/union/generic type
+  c:\users\123\documents\visual studio 2015\projects\queue\doublylinkedlist\doublylinkedlist.h(189): note: type is 'unknown-type'
+c:\users\123\documents\visual studio 2015\projects\queue\doublylinkedlist\doublylinkedlist.h(190): error C2065: 'tail': undeclared identifier
+c:\users\123\documents\visual studio 2015\projects\queue\doublylinkedlist\doublylinkedlist.h(191): error C2065: 'tail': undeclared identifier
