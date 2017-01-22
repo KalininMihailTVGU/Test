@@ -7,7 +7,7 @@
 #include "String.h"
 
 
-int String::getLenght()
+int String::getLength()
 {
 	return length;
 }
@@ -34,7 +34,7 @@ String::~String()
 
 void String::append(String str)
 {
-	int iNewLen = length+str.getLenght();
+	int iNewLen = length+str.getLength();
 	char *buffer = new char[iNewLen];
 	strcpy(buffer,data);
 	strcat(buffer,str.getData());
